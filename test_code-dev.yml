@@ -4,4 +4,4 @@
 -os: linux
 task
 - name: instnace
-  -platform: prod
+  -platform: preprod
