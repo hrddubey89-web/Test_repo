@@ -1,0 +1,7 @@
+---
+-name: ec2-2
+-status: on
+-os: linux
+task
+- name: instnace
+  -platform: prod
