@@ -1,9 +1,0 @@
----
--name: Ec2
--status: present
-Task
--Name: test repo fine
-status: good
-how r u test
-services: started
-
